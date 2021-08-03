@@ -1,5 +1,5 @@
 # PiratedVideoWebsite
-> Dataset was collected in August 2020
+> Dataset was collected in August 2020, refreshed in August 2021.
 ### This dataset target Chinese pirated video website.
 The websites in **pirated video website.csv** are collected from search engines.
 
