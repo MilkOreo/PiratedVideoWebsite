@@ -6,6 +6,6 @@ The websites in **pirated video website.csv** are collected from search engines 
 
 The websites in **wild.csv** are collected from wild experiment.
 
-Since most of the websites in **pirated video website.csv** cannot be accessed, we have re-updated the pirated video websites in t**pirate_0804.csv** 
+Since most of the websites in **pirated video website.csv** cannot be accessed, we have re-updated the pirated video websites in **pirate_0804.csv** 
 
 ### Pirated websites will be updated in the near future.
