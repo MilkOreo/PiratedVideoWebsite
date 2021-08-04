@@ -8,4 +8,4 @@ The websites in **wild.csv** are collected from wild experiment.
 
 Since most of the websites in **pirated video website.csv** cannot be accessed, we have re-updated the pirated video websites in **pirate_0804.csv** 
 
-### Pirated websites will be updated in the near future.
+In the future, we will continue to update the data collection of pirated video websites.
